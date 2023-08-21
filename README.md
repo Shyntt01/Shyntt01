@@ -28,7 +28,9 @@ Hoje meu tempo é em grande parte dedicado aos estudos da área. Aprendo, me div
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shyntt01&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
-### Meus Principais Desafios de Projeto DIO
+### Meus Principais Projetos
+https://projeto-grupo-02.vercel.app/
+
 Em construção...
 
 ### Meus Principais Artigos na DIO
