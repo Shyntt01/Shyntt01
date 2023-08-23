@@ -29,9 +29,10 @@ Hoje meu tempo é em grande parte dedicado aos estudos da área. Aprendo, me div
 
 
 ### Meus Principais Projetos
-https://projeto-grupo-02.vercel.app/
 
-Em construção...
+Roteiro do sabor - https://projeto-grupo-02.vercel.app/
+
+Pokédex - https://pokedex-eight-kohl.vercel.app/ 
 
 ### Meus Principais Artigos na DIO
 Em construção...
