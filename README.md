@@ -1,8 +1,9 @@
 # Felipe Martins
 
-Sou um jovem estudante, morador de São José dos Campos, em transição de carreira. 
+Sou um estudante, morador de São José dos Campos, em transição de carreira. 
 Estudo programação desde março de 2023 e desde então descobri minha paixão. 
-Hoje meu tempo é em grande parte dedicado aos estudos da área. Aprendo, me divirto e me descubro cada dia mais.
+
+Atualmente, trabalho como estagiário Front-end na construção do sistema web para o Cartório Central de São José dos Campos.
 
 ### Conecte-se comigo
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:felipe.impt@hotmail.com)
@@ -26,9 +27,8 @@ Hoje meu tempo é em grande parte dedicado aos estudos da área. Aprendo, me div
 
 ### Meus Principais Projetos
 
+Portal Cartório Central SAJ - http://portalccs.com/
+
 Roteiro do sabor - https://projeto-grupo-02.vercel.app/
 
-Pokédex - https://pokedex-eight-kohl.vercel.app/ 
 
-### Meus Principais Artigos na DIO
-Em construção...
